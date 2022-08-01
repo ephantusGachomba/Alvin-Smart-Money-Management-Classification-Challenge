@@ -1,4 +1,5 @@
-# Alvin-Smart-Money-Management-Classification-Challenge
+# Alvin-Smart-Money-Management-Classification-Challenge (ranked 81 out of 221) score = 1.766347741911859
+
 Alvin Smart Money Management Classification Challenge
 
 
